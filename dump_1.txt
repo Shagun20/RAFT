@@ -1,0 +1,1 @@
+Initial contentVote granted for Node 0 in term 156.Node 1 accepted AppendEntries RPC from 0.Node 1 accepted AppendEntries RPC from 0.Vote granted for Node 2 in term 157.Vote granted for Node 0 in term 158.
