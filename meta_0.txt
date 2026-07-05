@@ -1,3 +1,0 @@
-node_id -1
-term 156 
-commit_len 0 
