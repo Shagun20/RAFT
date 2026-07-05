@@ -274,22 +274,9 @@ The client reconnects automatically.
 
 ---
 
-## Future Improvements
-
-- Dynamic cluster membership
-- Log compaction & snapshots
-- Crash recovery
-- Network partition simulation
-- Docker deployment
-- Kubernetes deployment
-- Monitoring dashboard
-- Performance benchmarking
-
----
-
 ## Learning Outcomes
 
-This project demonstrates practical implementation of:
+In this project, I did practical implementation of:
 
 - Distributed Consensus
 - Fault Tolerance
