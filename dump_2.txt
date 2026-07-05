@@ -1,1 +1,0 @@
-Initial contentVote granted for Node 0 in term 156.Node 2 accepted AppendEntries RPC from 0.Node 2 accepted AppendEntries RPC from 0.Node 2 election timer timed out, Starting election.New Leader waiting for Old Leader Lease to timeout.
