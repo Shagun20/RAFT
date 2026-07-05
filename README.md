@@ -22,27 +22,8 @@ This project implements the core components of Raft including leader election, h
 ---
 
 ## Architecture
+<img width="1491" height="1055" alt="image" src="https://github.com/user-attachments/assets/57370c50-1101-48fe-816f-230969f0c135" />
 
-```
-                  Client
-                     │
-              gRPC Requests
-                     │
-          ┌──────────┴──────────┐
-          │                     │
-      Leader Node         Followers
-           │              │      │
-           │──────────────┼──────│
-           │ AppendEntries│
-           │ Heartbeats   │
-           ▼              ▼
-      Replicated Logs
-           │
-           ▼
-     State Machine
-           │
-     Key-Value Store
-```
 
 ---
 
