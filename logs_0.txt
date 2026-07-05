@@ -1,3 +1,0 @@
-Term: 156, Update: ['NO-OP']
-Term: 156, Update: ['SET', '1', '1']
-Term: 156, Update: ['NO-OP']
